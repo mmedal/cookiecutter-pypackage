@@ -1,0 +1,11 @@
+{
+    "author": "Matthew Medal",
+    "email": "matt.medal@gmail.com",
+    "github_username": "mmedal",
+    "module_name": "example_package",
+    "package_name": "example-package",
+    "project_title": "Example package",
+    "project_description": "An example package.",
+    "version": "0.0.1",
+    "year": "2016"
+}
